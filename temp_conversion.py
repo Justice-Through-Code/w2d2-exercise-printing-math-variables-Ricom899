@@ -12,7 +12,7 @@ def convert_100_to_celsius():
     print (convert_100_to_celsius)
     print ('float')
 
-convert_100_to_celsius()
+
 
 #convert_100_to_celsius()
 
@@ -30,7 +30,7 @@ def convert_34_2_to_celsius():
     # Do this one all in one print statement without saving any variables
     
     print ((34.2-32)*(5/9))
-convert_34_2_to_celsius()
+
 #convert_34_2_to_celsius()
 
 
@@ -43,7 +43,7 @@ def convert_5_to_fahrenheit():
 
     print((5*9/5)+32)
 
-convert_5_to_fahrenheit()
+
 #convert_5_to_fahrenheit()
 
 def hotter_temp():
@@ -53,5 +53,5 @@ def hotter_temp():
     
     print ("30.2 degrees celsius is hotter!")
 
-hotter_temp()
+
 #hotter_temp()
